@@ -1,0 +1,177 @@
+     @media only screen and (max-width: 991px) {
+         .main__container {
+             font-size: 60px;
+         }
+         .nav-row a {
+             margin-top: 70px;
+         }
+         .icon-lg {
+             margin-bottom: 40px;
+         }
+         .hero-img__row {
+             background-attachment: unset;
+         }
+         .summary__text p,
+         .dog-evolution__text--row,
+         .adopt__main-text--row p,
+         .dog-app__text,
+         .about__text--row {
+             width: 100%;
+             padding: 20px;
+         }
+         .summary__features-row p {
+             padding-top: 0px;
+             margin-bottom: 70px;
+         }
+         .dog-pics__list li {
+             width: 50%;
+         }
+         .dog-evolution__timeline--row-1,
+         .dog-evolution__timeline--row-2,
+         .dog-evolution__timeline--row-3,
+         .dog-evolution__timeline--row-4 {
+             text-align: center;
+         }
+         .dog-evolution__text-overlay p {
+             position: relative;
+             padding: 20px;
+             font-size: 50%;
+         }
+         .top-dogs__links--row svg {
+             font-size: 400%;
+             margin-bottom: 10px;
+             width: 70px;
+             height: 70px;
+         }
+         .top-dogs__links--row h3 {
+             font-size: 270%;
+         }
+         .top-dogs__links--row button {
+             width: 700px;
+             height: 150px;
+         }
+         .top-dogs__card--1,
+         .top-dogs__card--2,
+         .top-dogs__card--3,
+         .top-dogs__card--4,
+         .top-dogs__card--5 {
+             width: 700px;
+         }
+         .top-dogs__card--title {
+             margin-top: 40px;
+         }
+         .adopt__number--row {
+             width: 180px;
+         }
+         .famous-dogs__card {
+             display: block;
+         }
+         .famous-dogs__text--row h3 {
+             font-size: 80%;
+         }
+         .dog-app__results--row {
+             height: 1500px;
+         }
+         .dog-app__collapse-btn {
+             font-size: 105%;
+         }
+         .results__name {
+             font-size: 60%;
+         }
+         .dog__details {
+             margin-left: 0;
+         }
+         .spinner-border-text {
+             margin-left: 1rem;
+             font-size: 110%;
+         }
+         .copyright {
+             font-size: 60%;
+         }
+         .about__headline--row {
+             text-align: center;
+         }
+         .footer__copyright--row p {
+             font-size: 60%;
+         }
+     }
+     
+     @media only screen and (max-width: 767px) {
+         .main__container {
+             font-size: 28px;
+         }
+         .navbar-toggler .fas {
+             margin-right: 610px;
+         }
+         .summary__features-row p {
+             margin-bottom: 50px;
+         }
+         .icon-lg {
+             padding-bottom: 0px;
+             margin-bottom: 10px;
+             height: 70px;
+         }
+         .dog-evolution__text-overlay p {
+             position: relative;
+             width: 700px;
+             font-size: 85%;
+         }
+         .top-dogs__card--1,
+         .top-dogs__card--2,
+         .top-dogs__card--3,
+         .top-dogs__card--4,
+         .top-dogs__card--5 {
+             width: 405px;
+         }
+         .adopt__number--row {
+             width: 110px;
+         }
+     }
+     
+     @media only screen and (max-width: 575px) {
+         .navbar-toggler .fas {
+             margin-right: 400px;
+         }
+         .dog-evolution__text-overlay p {
+             position: relative;
+             width: 450px;
+             font-size: 75%;
+         }
+         .dog-evolution__timeline--row {
+             text-align: center;
+         }
+         .top-dogs__card--1,
+         .top-dogs__card--2,
+         .top-dogs__card--3,
+         .top-dogs__card--4,
+         .top-dogs__card--5 {
+             width: 380px;
+         }
+         .results__fig {
+             margin-right: 0.3rem;
+         }
+         .results__name {
+             font-size: 60%;
+         }
+         .spinner-border {
+             margin-left: 3rem;
+         }
+         .spinner-border-text {
+             margin-left: 2rem;
+         }
+         .dog-app__results--pages--one {
+             padding: 0 4rem;
+         }
+         .dog-app__results--pages--two {
+             padding: 0 3rem;
+         }
+         .copyright {
+             font-size: 60%;
+         }
+         .footer__social--row {
+             padding: 50px;
+         }
+         .footer__copyright--row p {
+             font-size: 60%;
+         }
+     }
